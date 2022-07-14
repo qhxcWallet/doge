@@ -1382,3 +1382,27 @@ func (c *Client) GetDescriptorInfoAsync(descriptor string) FutureGetDescriptorIn
 func (c *Client) GetDescriptorInfo(descriptor string) (*btcjson.GetDescriptorInfoResult, error) {
 	return c.GetDescriptorInfoAsync(descriptor).Receive()
 }
+
+func (c *Client) GetBlockNotVerboseAsync(blockHash *chainhash.Hash) FutureGetBlockVerboseResult {
+	hash := ""
+	if blockHash != nil {
+		hash = blockHash.String()
+	}
+	// From the bitcoin-cli getblock documentation:
+	// "If verbosity is 1, returns an Object with information about block ."
+	cmd := btcjson.NewGetBlockCmd(hash, nil)
+	return FutureGetBlockVerboseResult{
+		client:   c,
+		hash:     hash,
+		Response: c.SendCmd(cmd),
+	}
+}
+
+// GetBlockVerbose returns a data structure from the server with information
+// about a block given its hash.
+//
+// See GetBlockVerboseTx to retrieve transaction data structures as well.
+// See GetBlock to retrieve a raw block instead.
+func (c *Client) GetBlockNotVerbose(blockHash *chainhash.Hash) (*btcjson.GetBlockVerboseResult, error) {
+	return c.GetBlockNotVerboseAsync(blockHash).Receive()
+}

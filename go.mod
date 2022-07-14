@@ -1,16 +1,16 @@
 module github.com/dogesuite/doged
 
 require (
+	github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f
+	github.com/btcsuite/go-socks v0.0.0-20170105172521-4720035b7bfd
+	github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792
+	github.com/btcsuite/winsvc v1.0.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1
 	github.com/decred/dcrd/lru v1.0.0
-	github.com/dogesuite/btclog v0.0.0-20170628155309-84c8d2346e9f
 	github.com/dogesuite/doged/btcec/v2 v2.1.3
 	github.com/dogesuite/doged/btcutil v1.1.0
 	github.com/dogesuite/doged/chaincfg/chainhash v1.0.1
-	github.com/dogesuite/go-socks v0.0.0-20170105172521-4720035b7bfd
-	github.com/dogesuite/websocket v0.0.0-20150119174127-31079b680792
-	github.com/dogesuite/winsvc v1.0.0
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/jrick/logrotate v1.0.0
 	github.com/stretchr/testify v1.7.0

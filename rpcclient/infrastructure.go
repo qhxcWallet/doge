@@ -25,10 +25,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dogesuite/doged/btcjson"
-	"github.com/dogesuite/doged/chaincfg"
 	"github.com/btcsuite/go-socks/socks"
 	"github.com/btcsuite/websocket"
+	"github.com/dogesuite/doged/btcjson"
+	"github.com/dogesuite/doged/chaincfg"
 )
 
 var (
@@ -1016,6 +1016,7 @@ func (c *Client) SendCmd(cmd interface{}) chan *Response {
 	if err != nil {
 		return newFutureError(err)
 	}
+	fmt.Printf("wch------ json: %+v\n", string(marshalledJSON))
 
 	// Generate the request and send it along with a channel to respond on.
 	responseChan := make(chan *Response, 1)
