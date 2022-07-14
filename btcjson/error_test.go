@@ -7,7 +7,7 @@ package btcjson_test
 import (
 	"testing"
 
-	"github.com/dogesuite/doged/btcjson"
+	"github.com/qhxcWallet/doged/btcjson"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.

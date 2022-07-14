@@ -8,9 +8,9 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/dogesuite/doged/btcec/v2"
-	"github.com/dogesuite/doged/btcec/v2/ecdsa"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/btcec/v2"
+	"github.com/qhxcWallet/doged/btcec/v2/ecdsa"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 )
 
 // genRandomSig returns a random message, a signature of the message under the

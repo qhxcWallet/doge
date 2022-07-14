@@ -11,10 +11,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/database/ffldb"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/database/ffldb"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // dbType is the database type name for this driver.

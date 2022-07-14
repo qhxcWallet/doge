@@ -8,7 +8,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/dogesuite/doged/database"
+	"github.com/qhxcWallet/doged/database"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.

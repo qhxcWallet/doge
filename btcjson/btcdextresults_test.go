@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/dogesuite/doged/btcjson"
+	"github.com/qhxcWallet/doged/btcjson"
 )
 
 // TestBtcdExtCustomResults ensures any results that have custom marshalling

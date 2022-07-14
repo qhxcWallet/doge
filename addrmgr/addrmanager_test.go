@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dogesuite/doged/addrmgr"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/addrmgr"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // naTest is used to describe a test to be performed against the NetAddressKey

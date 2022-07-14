@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/btcutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

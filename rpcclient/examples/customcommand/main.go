@@ -9,8 +9,8 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/dogesuite/doged/btcjson"
-	"github.com/dogesuite/doged/rpcclient"
+	"github.com/qhxcWallet/doged/btcjson"
+	"github.com/qhxcWallet/doged/rpcclient"
 )
 
 // NameShowCmd defines the name_show JSON-RPC command.

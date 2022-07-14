@@ -10,8 +10,8 @@ import (
 	"math"
 	"sync"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // calcHashPrevOuts calculates a single hash of all the previous outputs

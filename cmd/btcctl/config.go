@@ -13,9 +13,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/dogesuite/doged/btcjson"
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/btcjson"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/btcutil"
 	flags "github.com/jessevdk/go-flags"
 )
 

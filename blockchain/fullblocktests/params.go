@@ -9,9 +9,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // newHashFromStr converts the passed big-endian hex string into a

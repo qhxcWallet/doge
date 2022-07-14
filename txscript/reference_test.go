@@ -17,9 +17,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // scriptTestName returns a descriptive test name for the given reference script

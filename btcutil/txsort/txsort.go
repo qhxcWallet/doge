@@ -11,8 +11,8 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // InPlaceSort modifies the passed transaction inputs and outputs to be sorted

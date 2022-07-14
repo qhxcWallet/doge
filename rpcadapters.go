@@ -7,13 +7,13 @@ package main
 import (
 	"sync/atomic"
 
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/mempool"
-	"github.com/dogesuite/doged/netsync"
-	"github.com/dogesuite/doged/peer"
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/mempool"
+	"github.com/qhxcWallet/doged/netsync"
+	"github.com/qhxcWallet/doged/peer"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // rpcPeer provides a peer for use with the RPC server and implements the

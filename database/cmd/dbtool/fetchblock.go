@@ -9,8 +9,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/database"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/database"
 )
 
 // fetchBlockCmd defines the configuration options for the fetchblock command.

@@ -12,8 +12,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/dogesuite/doged/txscript"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/txscript"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // WriteTxWitness is a utility function due to non-exported witness

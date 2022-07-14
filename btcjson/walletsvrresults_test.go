@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dogesuite/doged/txscript"
+	"github.com/qhxcWallet/doged/txscript"
 	"github.com/davecgh/go-spew/spew"
 )
 

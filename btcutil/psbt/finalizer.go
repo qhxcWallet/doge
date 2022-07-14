@@ -14,8 +14,8 @@ package psbt
 import (
 	"bytes"
 	"fmt"
-	"github.com/dogesuite/doged/txscript"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/txscript"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // isFinalized considers this input finalized if it contains at least one of

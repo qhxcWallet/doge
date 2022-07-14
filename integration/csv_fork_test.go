@@ -15,14 +15,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/btcec/v2"
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/integration/rpctest"
-	"github.com/dogesuite/doged/txscript"
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/btcec/v2"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/integration/rpctest"
+	"github.com/qhxcWallet/doged/txscript"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 const (

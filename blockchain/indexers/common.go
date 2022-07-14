@@ -11,9 +11,9 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 var (

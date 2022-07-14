@@ -7,7 +7,7 @@ package wire
 import (
 	"io"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 )
 
 // MaxGetCFiltersReqRange the maximum number of filters that may be requested in

@@ -5,7 +5,7 @@
 package blockchain
 
 import (
-	"github.com/dogesuite/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg"
 )
 
 const (

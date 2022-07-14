@@ -7,7 +7,7 @@ package rpcclient
 import (
 	"encoding/json"
 
-	"github.com/dogesuite/doged/btcjson"
+	"github.com/qhxcWallet/doged/btcjson"
 )
 
 // AddNodeCommand enumerates the available commands that the AddNode function

@@ -25,8 +25,8 @@
 //          "fmt"
 //          "log"
 //
-//          "github.com/dogesuite/doged/btcutil"
-//          "github.com/dogesuite/doged/chaincfg"
+//          "github.com/qhxcWallet/doged/btcutil"
+//          "github.com/qhxcWallet/doged/chaincfg"
 //  )
 //
 //  var testnet = flag.Bool("testnet", false, "operate on the testnet Bitcoin network")

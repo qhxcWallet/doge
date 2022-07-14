@@ -14,7 +14,7 @@ import (
 
 	"io"
 
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // psbtMagicLength is the length of the magic bytes used to signal the start of

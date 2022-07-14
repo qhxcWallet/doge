@@ -11,11 +11,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/database"
-	_ "github.com/dogesuite/doged/database/ffldb"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/database"
+	_ "github.com/qhxcWallet/doged/database/ffldb"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // This example demonstrates creating a new database.
@@ -23,8 +23,8 @@ func ExampleCreate() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/dogesuite/doged/database"
-	// 	_ "github.com/dogesuite/doged/database/ffldb"
+	// 	"github.com/qhxcWallet/doged/database"
+	// 	_ "github.com/qhxcWallet/doged/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.
@@ -49,8 +49,8 @@ func Example_basicUsage() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/dogesuite/doged/database"
-	// 	_ "github.com/dogesuite/doged/database/ffldb"
+	// 	"github.com/qhxcWallet/doged/database"
+	// 	_ "github.com/qhxcWallet/doged/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.
@@ -115,8 +115,8 @@ func Example_blockStorageAndRetrieval() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/dogesuite/doged/database"
-	// 	_ "github.com/dogesuite/doged/database/ffldb"
+	// 	"github.com/qhxcWallet/doged/database"
+	// 	_ "github.com/qhxcWallet/doged/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.

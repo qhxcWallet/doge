@@ -10,8 +10,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 var (

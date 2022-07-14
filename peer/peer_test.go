@@ -13,10 +13,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/peer"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/peer"
+	"github.com/qhxcWallet/doged/wire"
 	"github.com/btcsuite/go-socks/socks"
 )
 

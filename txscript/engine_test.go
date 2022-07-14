@@ -8,8 +8,8 @@ package txscript
 import (
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // TestBadPC sets the pc to a deliberately bad result then confirms that Step

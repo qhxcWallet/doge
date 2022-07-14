@@ -17,7 +17,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg"
 	secp_ecdsa "github.com/decred/dcrd/dcrec/secp256k1/v4"
 )
 

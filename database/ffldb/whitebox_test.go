@@ -17,10 +17,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
 	"github.com/syndtr/goleveldb/leveldb"
 	ldberrors "github.com/syndtr/goleveldb/leveldb/errors"
 )

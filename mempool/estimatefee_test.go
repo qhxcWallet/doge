@@ -9,10 +9,10 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/mining"
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/mining"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // newTestFeeEstimator creates a feeEstimator with some different parameters

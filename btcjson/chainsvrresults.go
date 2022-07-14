@@ -9,10 +9,10 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 
-	"github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // GetBlockHeaderVerboseResult models the data from the getblockheader command when

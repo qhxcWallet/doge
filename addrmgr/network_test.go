@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dogesuite/doged/addrmgr"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/addrmgr"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // TestIPTypes ensures the various functions which determine the type of an IP

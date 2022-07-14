@@ -5,10 +5,10 @@
 package bloom
 
 import (
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a

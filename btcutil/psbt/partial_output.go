@@ -5,7 +5,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // POutput is a struct encapsulating all the data that can be attached

@@ -5,8 +5,8 @@
 package mempool
 
 import (
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // RuleError identifies a rule violation.  It is used to indicate that

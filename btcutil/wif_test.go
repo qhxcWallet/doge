@@ -9,9 +9,9 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/dogesuite/doged/btcec/v2"
-	. "github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/chaincfg"
+	"github.com/qhxcWallet/doged/btcec/v2"
+	. "github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

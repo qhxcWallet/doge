@@ -7,7 +7,7 @@ package blockchain
 import (
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 )
 
 // TestThresholdStateStringer tests the stringized output for the

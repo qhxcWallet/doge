@@ -7,7 +7,7 @@ package blockchain
 import (
 	"testing"
 
-	"github.com/dogesuite/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg"
 )
 
 // TestNotifications ensures that notification callbacks are fired on events.

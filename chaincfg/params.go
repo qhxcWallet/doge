@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // These variables are the chain proof-of-work limit parameters for each default

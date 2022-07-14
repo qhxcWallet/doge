@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 	"github.com/davecgh/go-spew/spew"
 )
 

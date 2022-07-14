@@ -8,11 +8,11 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/dogesuite/doged/btcjson"
-	"github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcjson"
+	"github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // *****************************

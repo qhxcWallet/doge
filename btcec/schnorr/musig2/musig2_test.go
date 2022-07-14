@@ -14,8 +14,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/dogesuite/doged/btcec/v2"
-	"github.com/dogesuite/doged/btcec/v2/schnorr"
+	"github.com/qhxcWallet/doged/btcec/v2"
+	"github.com/qhxcWallet/doged/btcec/v2/schnorr"
 )
 
 var (

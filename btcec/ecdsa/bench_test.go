@@ -10,7 +10,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/dogesuite/doged/btcec/v2"
+	"github.com/qhxcWallet/doged/btcec/v2"
 	"github.com/decred/dcrd/dcrec/secp256k1/v4"
 )
 

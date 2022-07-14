@@ -7,8 +7,8 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/btcutil/hdkeychain"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/btcutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

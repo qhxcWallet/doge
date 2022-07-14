@@ -7,8 +7,8 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // maybeAcceptBlock potentially accepts a block into the block chain and, if

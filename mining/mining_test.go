@@ -9,7 +9,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // TestTxFeePrioHeap ensures the priority queue for transaction fees and

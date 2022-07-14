@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dogesuite/doged/btcjson"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/btcjson"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // TestWalletSvrCmds tests all of the wallet server commands marshal and

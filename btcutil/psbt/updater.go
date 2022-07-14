@@ -14,9 +14,9 @@ import (
 	"bytes"
 	"crypto/sha256"
 
-	"github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/txscript"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/txscript"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // Updater encapsulates the role 'Updater' as specified in BIP174; it accepts

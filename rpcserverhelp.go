@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dogesuite/doged/btcjson"
+	"github.com/qhxcWallet/doged/btcjson"
 )
 
 // helpDescsEnUS defines the English descriptions used for the help strings.

@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 	"github.com/davecgh/go-spew/spew"
 )
 

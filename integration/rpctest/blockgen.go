@@ -11,13 +11,13 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/mining"
-	"github.com/dogesuite/doged/txscript"
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/mining"
+	"github.com/qhxcWallet/doged/txscript"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // solveBlock attempts to find a nonce which makes the passed block header hash

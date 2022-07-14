@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out

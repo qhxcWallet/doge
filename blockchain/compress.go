@@ -5,8 +5,8 @@
 package blockchain
 
 import (
-	"github.com/dogesuite/doged/btcec/v2"
-	"github.com/dogesuite/doged/txscript"
+	"github.com/qhxcWallet/doged/btcec/v2"
+	"github.com/qhxcWallet/doged/txscript"
 )
 
 // -----------------------------------------------------------------------------

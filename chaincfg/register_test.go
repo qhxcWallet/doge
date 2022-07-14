@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/dogesuite/doged/chaincfg"
+	. "github.com/qhxcWallet/doged/chaincfg"
 )
 
 // Define some of the required parameters for a user-registered

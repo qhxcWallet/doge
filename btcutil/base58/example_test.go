@@ -7,7 +7,7 @@ package base58_test
 import (
 	"fmt"
 
-	"github.com/dogesuite/doged/btcutil/base58"
+	"github.com/qhxcWallet/doged/btcutil/base58"
 )
 
 // This example demonstrates how to decode modified base58 encoded data.

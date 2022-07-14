@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // KnownAddress tracks information about a known network address that is used

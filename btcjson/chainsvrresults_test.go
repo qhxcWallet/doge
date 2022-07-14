@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dogesuite/doged/btcjson"
-	"github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/btcjson"
+	"github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 	"github.com/davecgh/go-spew/spew"
 )
 

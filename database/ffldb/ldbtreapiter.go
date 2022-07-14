@@ -5,7 +5,7 @@
 package ffldb
 
 import (
-	"github.com/dogesuite/doged/database/internal/treap"
+	"github.com/qhxcWallet/doged/database/internal/treap"
 	"github.com/syndtr/goleveldb/leveldb/iterator"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )

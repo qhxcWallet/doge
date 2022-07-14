@@ -16,11 +16,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/integration/rpctest"
-	"github.com/dogesuite/doged/rpcclient"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/integration/rpctest"
+	"github.com/qhxcWallet/doged/rpcclient"
 )
 
 func testGetBestBlock(r *rpctest.Harness, t *testing.T) {

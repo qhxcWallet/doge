@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // AddNodeSubCmd defines the type used in the addnode JSON-RPC command for the

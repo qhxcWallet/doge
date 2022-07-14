@@ -8,10 +8,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/blockchain/indexers"
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/limits"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/blockchain/indexers"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/limits"
 	"github.com/btcsuite/btclog"
 )
 

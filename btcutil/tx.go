@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // TxIndexUnknown is the value returned for a transaction index that is unknown.

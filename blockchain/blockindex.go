@@ -10,10 +10,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // blockStatus is a bit field representing the validation state of the block.

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"hash/crc32"
 
-	"github.com/dogesuite/doged/database"
+	"github.com/qhxcWallet/doged/database"
 )
 
 // The serialized write cursor location format is:

@@ -11,12 +11,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dogesuite/doged/blockchain"
-	"github.com/dogesuite/doged/blockchain/indexers"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/blockchain"
+	"github.com/qhxcWallet/doged/blockchain/indexers"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 var zeroHash = chainhash.Hash{}

@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/rpcclient"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/rpcclient"
 )
 
 // JoinType is an enum representing a particular type of "node join". A node

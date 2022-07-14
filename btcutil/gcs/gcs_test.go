@@ -11,7 +11,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/dogesuite/doged/btcutil/gcs"
+	"github.com/qhxcWallet/doged/btcutil/gcs"
 )
 
 var (

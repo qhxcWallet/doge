@@ -7,9 +7,9 @@ package txscript
 import (
 	"fmt"
 
-	"github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 const (

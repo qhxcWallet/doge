@@ -8,8 +8,8 @@
 package database
 
 import (
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a

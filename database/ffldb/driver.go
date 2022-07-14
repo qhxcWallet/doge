@@ -7,8 +7,8 @@ package ffldb
 import (
 	"fmt"
 
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/wire"
 	"github.com/btcsuite/btclog"
 )
 

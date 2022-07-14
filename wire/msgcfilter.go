@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 )
 
 // FilterType is used to represent a filter type.

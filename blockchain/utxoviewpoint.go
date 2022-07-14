@@ -7,11 +7,11 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/dogesuite/doged/btcutil"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/database"
-	"github.com/dogesuite/doged/txscript"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/database"
+	"github.com/qhxcWallet/doged/txscript"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // txoFlags is a bitmask defining additional information and state for a

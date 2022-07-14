@@ -6,8 +6,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/dogesuite/doged/txscript"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/txscript"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // PInput is a struct encapsulating all the data that can be attached to any

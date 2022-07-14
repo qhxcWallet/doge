@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dogesuite/doged/rpcclient"
+	"github.com/qhxcWallet/doged/rpcclient"
 )
 
 func main() {

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // addrIndexBucket provides a mock address index database bucket by implementing

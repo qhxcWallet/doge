@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // ThresholdState define the various threshold states used when voting on

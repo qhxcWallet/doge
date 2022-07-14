@@ -14,8 +14,8 @@ import (
 	"runtime"
 	"time"
 
-	rpc "github.com/dogesuite/doged/rpcclient"
-	"github.com/dogesuite/doged/btcutil"
+	rpc "github.com/qhxcWallet/doged/rpcclient"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // nodeConfig contains all the args, and data required to launch a btcd process

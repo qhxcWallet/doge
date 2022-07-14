@@ -9,9 +9,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil/bloom"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

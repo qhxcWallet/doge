@@ -10,9 +10,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg"
-	"github.com/dogesuite/doged/peer"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg"
+	"github.com/qhxcWallet/doged/peer"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // mockRemotePeer creates a basic inbound peer listening on the simnet port for

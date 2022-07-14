@@ -7,11 +7,11 @@ package txscript
 import (
 	"fmt"
 
-	"github.com/dogesuite/doged/btcec/v2"
-	"github.com/dogesuite/doged/btcec/v2/ecdsa"
-	"github.com/dogesuite/doged/btcec/v2/schnorr"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcec/v2"
+	"github.com/qhxcWallet/doged/btcec/v2/ecdsa"
+	"github.com/qhxcWallet/doged/btcec/v2/schnorr"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // signatureVerifier is an abstract interface that allows the op code execution

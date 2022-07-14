@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 var (

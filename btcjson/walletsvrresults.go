@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/dogesuite/doged/txscript"
+	"github.com/qhxcWallet/doged/txscript"
 )
 
 // CreateWalletResult models the result of the createwallet command.

@@ -27,8 +27,8 @@ import (
 
 	"github.com/btcsuite/go-socks/socks"
 	"github.com/btcsuite/websocket"
-	"github.com/dogesuite/doged/btcjson"
-	"github.com/dogesuite/doged/chaincfg"
+	"github.com/qhxcWallet/doged/btcjson"
+	"github.com/qhxcWallet/doged/chaincfg"
 )
 
 var (

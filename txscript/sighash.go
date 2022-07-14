@@ -13,8 +13,8 @@ import (
 	"io"
 	"math"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // SigHashType represents hash type bits at the end of a signature.

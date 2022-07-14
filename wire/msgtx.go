@@ -10,7 +10,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 )
 
 const (

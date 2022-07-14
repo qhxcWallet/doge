@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dogesuite/doged/txscript"
+	"github.com/qhxcWallet/doged/txscript"
 )
 
 // TestCheckBlockScripts ensures that validating the all of the scripts in a

@@ -7,8 +7,8 @@ package main
 import (
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/database"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/database"
 )
 
 // headersCmd defines the configuration options for the loadheaders command.

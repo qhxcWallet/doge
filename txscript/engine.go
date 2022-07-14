@@ -12,9 +12,9 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/dogesuite/doged/btcec/v2"
-	"github.com/dogesuite/doged/chaincfg/chainhash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcec/v2"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // ScriptFlags is a bitmask defining additional operations or tests that will be

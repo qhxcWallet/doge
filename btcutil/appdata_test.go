@@ -12,7 +12,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/dogesuite/doged/btcutil"
+	"github.com/qhxcWallet/doged/btcutil"
 )
 
 // TestAppDataDir tests the API for AppDataDir to ensure it gives expected

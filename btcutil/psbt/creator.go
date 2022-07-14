@@ -5,7 +5,7 @@
 package psbt
 
 import (
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 // MinTxVersion is the lowest transaction version that we'll permit.

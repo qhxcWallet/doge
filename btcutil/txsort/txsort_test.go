@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/dogesuite/doged/wire"
-	"github.com/dogesuite/doged/btcutil/txsort"
+	"github.com/qhxcWallet/doged/wire"
+	"github.com/qhxcWallet/doged/btcutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.

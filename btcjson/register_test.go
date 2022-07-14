@@ -9,7 +9,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/dogesuite/doged/btcjson"
+	"github.com/qhxcWallet/doged/btcjson"
 )
 
 // TestUsageFlagStringer tests the stringized output for the UsageFlag type.

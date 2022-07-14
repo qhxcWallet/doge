@@ -2,9 +2,9 @@ package psbt
 
 import (
 	"bytes"
-	"github.com/dogesuite/doged/btcec/v2/schnorr"
-	"github.com/dogesuite/doged/txscript"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/btcec/v2/schnorr"
+	"github.com/qhxcWallet/doged/txscript"
+	"github.com/qhxcWallet/doged/wire"
 )
 
 const (

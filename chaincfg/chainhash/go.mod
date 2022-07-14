@@ -1,3 +1,3 @@
-module github.com/dogesuite/doged/chaincfg/chainhash
+module github.com/qhxcWallet/doged/chaincfg/chainhash
 
 go 1.17

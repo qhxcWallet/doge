@@ -8,7 +8,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/dogesuite/doged/chaincfg/chainhash"
+	"github.com/qhxcWallet/doged/chaincfg/chainhash"
 )
 
 var (

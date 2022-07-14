@@ -12,7 +12,7 @@ import (
 	"sort"
 
 	"github.com/aead/siphash"
-	"github.com/dogesuite/doged/wire"
+	"github.com/qhxcWallet/doged/wire"
 	"github.com/kkdai/bstream"
 )
 
