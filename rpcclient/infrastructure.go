@@ -774,6 +774,7 @@ func (c *Client) handleSendPostMessage(jReq *jsonRequest,
 		err, lastErr error
 		backoff      time.Duration
 		httpResponse *http.Response
+		aTime, bTime time.Time
 	)
 
 	tries := 10
@@ -800,7 +801,9 @@ func (c *Client) handleSendPostMessage(jReq *jsonRequest,
 		}
 		httpReq.SetBasicAuth(user, pass)
 
+		aTime = time.Now()
 		httpResponse, err = c.httpClient.Do(httpReq)
+		bTime = time.Now()
 
 		// Quit the retry loop on success or if we can't retry anymore.
 		if err == nil || i == tries-1 {
@@ -849,6 +852,10 @@ func (c *Client) handleSendPostMessage(jReq *jsonRequest,
 	respBytes, err := ioutil.ReadAll(httpResponse.Body)
 	httpResponse.Body.Close()
 	if err != nil {
+		fmt.Printf("wch----- resp body len %+v, content len %+v\n", len(respBytes), httpResponse.ContentLength)
+		fmt.Printf("wch----- time a: %+v\n", aTime.String())
+		fmt.Printf("wch----- time b: %+v\n", bTime.String())
+		fmt.Printf("wch----- time sub: %+v\n", bTime.Sub(aTime))
 		err = fmt.Errorf("error reading json reply: %v", err)
 		jReq.responseChan <- &Response{err: err}
 		return
