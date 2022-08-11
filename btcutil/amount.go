@@ -33,15 +33,15 @@ const (
 func (u AmountUnit) String() string {
 	switch u {
 	case AmountMegaBTC:
-		return "MBTC"
+		return "MDOGE"
 	case AmountKiloBTC:
-		return "kBTC"
+		return "kDOGE"
 	case AmountBTC:
-		return "BTC"
+		return "DOGE"
 	case AmountMilliBTC:
-		return "mBTC"
+		return "mDOGE"
 	case AmountMicroBTC:
-		return "μBTC"
+		return "μDOGE"
 	case AmountSatoshi:
 		return "Satoshi"
 	default:
